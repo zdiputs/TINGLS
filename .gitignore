@@ -1,0 +1,10 @@
+/tingsdemo/EWARM/zmain/**/**/**/*
+/tingsdemo/EWARM/zmain/**/**/*
+/tingsdemo/EWARM/zmain/**/*
+/tingsdemo/EWARM/zmain/*
+/tingsdemo/Debug/**/**/**/**/*
+/tingsdemo/Debug/**/**/**/*
+/tingsdemo/Debug/**/**/*
+/tingsdemo/Debug/**/*
+/tingsdemo/Debug/*
+!.gitignore
